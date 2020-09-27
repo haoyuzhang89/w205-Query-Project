@@ -1,0 +1,25 @@
+,subscriber type,month,average trip duration,trip number
+0,Customer,1,24.0,6862
+1,Customer,2,25.0,7012
+2,Customer,3,25.0,9028
+3,Customer,4,24.0,8776
+4,Customer,5,24.0,11373
+5,Customer,6,24.0,10782
+6,Customer,7,25.0,11646
+7,Customer,8,24.0,13968
+8,Customer,9,23.0,15535
+9,Customer,10,24.0,12586
+10,Customer,11,24.0,8324
+11,Customer,12,24.0,6017
+12,Subscriber,1,8.0,63967
+13,Subscriber,2,8.0,62028
+14,Subscriber,3,8.0,71513
+15,Subscriber,4,8.0,74124
+16,Subscriber,5,8.0,73537
+17,Subscriber,6,8.0,79405
+18,Subscriber,7,9.0,76302
+19,Subscriber,8,8.0,79953
+20,Subscriber,9,9.0,69880
+21,Subscriber,10,8.0,80223
+22,Subscriber,11,8.0,63631
+23,Subscriber,12,8.0,50973

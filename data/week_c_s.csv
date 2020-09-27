@@ -1,0 +1,15 @@
+,subscriber type,day,average trip duration,trip number
+0,Customer,1,23.0,13582
+1,Customer,2,21.0,13374
+2,Customer,3,22.0,13906
+3,Customer,4,22.0,15102
+4,Customer,5,23.0,17820
+5,Customer,6,26.0,25586
+6,Customer,7,28.0,22539
+7,Subscriber,1,8.0,154570
+8,Subscriber,2,8.0,169414
+9,Subscriber,3,8.0,165298
+10,Subscriber,4,8.0,160093
+11,Subscriber,5,8.0,139800
+12,Subscriber,6,9.0,30966
+13,Subscriber,7,9.0,25395
